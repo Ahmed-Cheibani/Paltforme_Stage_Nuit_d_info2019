@@ -1,5 +1,5 @@
 # IsitcomBrightNight
-Ce présent travail est réalisé dans le cadre du défi: Dockerisation (220) par les membres de l'équipe Bright_Night.
+Ce présent travail est réalisé dans le cadre du défi: Dockerisation par les membres de l'équipe Isitcom_Bright_Night.
 
 Les étapes de création d'un dockerfile :
 
