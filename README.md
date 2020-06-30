@@ -11,7 +11,7 @@ COPY ./ /usr/share/nginx/html      						** nous avons copié le fichier du proj
 
 
 Les étapes d'installation :
-## Etape 01 :
+## Etape 001 :
 Il faut cloner cette repository  qui présente l'image docker de notre application de plateforme des stages PFE.
 Bien évidemment il faut déjà avoir le docker installé sur votre machine.
 
