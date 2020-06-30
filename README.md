@@ -16,15 +16,15 @@ Il faut cloner cette repository  qui présente l'image docker de notre applicati
 Bien évidemment il faut déjà avoir le docker installé sur votre machine.
 
 
-## Etape 02 :
+## Etape 002 :
 
 Il faut taper cette commande  "docker build -t platfrom-stage ." sur le docker CLI afin de créer l'image à partir du Dockerfile.
 
-## Etape 03 :
+## Etape 003 :
 Il faut taper la commande suivante "docker run -p 8080:80 platfrom-stage" sur le docker CLI qui permet de faire l'exécution de l'image dans un conteneur docker.
 
 
-## Etape 04 :
+## Etape 004 :
 
 C'est la derniére étape qui consiste à affecter une adresse IP automatiquement au conteneur.
 
